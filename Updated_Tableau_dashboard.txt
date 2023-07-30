@@ -4,4 +4,4 @@ Here the updates to expect in updated tableau dashboard!
 ---> Added Top 25 team APi ID that 'Away Wins' 
 ---> Added Leauges information 
 Issues: Measured values 'Text Label' needs to be fixed 
----> Will be updating it soon!
+---> Will be updating it soon with more insights!
