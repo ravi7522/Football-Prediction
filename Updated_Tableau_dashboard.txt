@@ -1,0 +1,8 @@
+Here in the tableau dashboard, i tried to keep up with the recent model delployed by our team.
+
+Here the updates to expect in updated tableau dashboard!
+---> Added Top 25 team APi ID that 'Away Wins' 
+---> Added Leauges information 
+Issues: Measured values 'Text Label' needs to be fixed 
+---> Will be updating it soon with more insights!
+Link: https://public.tableau.com/app/profile/dharma2519/viz/2011_dataSciencemanagment/Top25Team_API
