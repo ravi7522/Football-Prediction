@@ -1,3 +1,7 @@
+updated dashboard consists: Ideal body rate vs team scores!and top 15 teams statistics..
+link: https://public.tableau.com/app/profile/dharma2519/viz/IdealBodyRatevsScores/IdealBodyRatevsScores
+
+
 Here in the tableau dashboard, i tried to keep up with the recent model delployed by our team.
 
 Here the updates to expect in updated tableau dashboard!
